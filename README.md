@@ -206,7 +206,7 @@ You can also step by step run Jupyter Notebooks in /notebooks dir.
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
+<!--
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -214,7 +214,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+-->
 
 
 <!-- LICENSE -->
