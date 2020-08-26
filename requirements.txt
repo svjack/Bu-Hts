@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Aug 25 19:29:39 2020
+
+@author: svjack
+"""
+dtaidistance
+pystan
+fbprophet
+scikit-hts
+pmdarima
+hyperopt
