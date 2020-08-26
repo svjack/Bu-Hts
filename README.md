@@ -99,12 +99,12 @@ There are many great README templates available on GitHub, however, I didn't fin
 Time Series Forecast is useful in retail analysis in data analysis and mining. When it comes to hts data --- a data format that apply decoposition on massive
 data, Many models have built on them. You can have a look at https://otexts.com/fpp2/hts.html
 Nowadays, Many R packages have be developed. And you can find Scikit-Hts this python framework to perform similar tasks.
-But they many limits as follows:
+But there are many limits as follows:
 * R packages such as gts and Scikit-Hts seems only support uni-feature time series, that you can not add other feature related with time series.
 * Scikit-Hts have some Bugs with bottom up situation, which can be seen at https://github.com/carlomazzaferro/scikit-hts/issues/35
 * Complex params fine-tuned on Prophet and the above framework (Scikit-Hts) may be difficult.
 
-So, This project can be a Deno to tackle above limits.
+So, This project can be a Demo to overcome above limits.
 And achieve cv mape below 0.08.
 
 <!--
